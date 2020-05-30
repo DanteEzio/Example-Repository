@@ -1,1 +1,9 @@
 # Example-Repository
+
+##Description
+
+This is a new repository with new information about to **Django-Course**
+
+....................
+....................
+....................
